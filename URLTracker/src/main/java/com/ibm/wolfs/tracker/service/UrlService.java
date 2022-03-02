@@ -37,6 +37,7 @@ public class UrlService {
 	private final List<Url> links = new ArrayList<Url>();
 	private final List<String> fatherList = new ArrayList<String>();
 	private final List<String> sonList = new ArrayList<String>();
+	String nomes = "Diego";
 
 	public List<Url> listAllLinks() {
 
